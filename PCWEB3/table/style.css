@@ -1,0 +1,12 @@
+h1 {
+    color: fuchsia;
+}
+
+table {
+    background-color: black;
+}
+
+td {
+    background-color: yellow;
+    padding: 20px;
+}

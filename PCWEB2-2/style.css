@@ -1,0 +1,18 @@
+#body {
+    background-image: url(https://upload-os-bbs.hoyolab.com/upload/2023/06/07/238748654/854e4448940d47a77b24897146c0dbb3_6470375566460720066.gif);
+
+    height: calc(100vh - 56px);
+}
+
+#saved {
+    width: fit-content;
+
+    position: fixed;
+    top: 56px;
+}
+
+#body img {
+    width: 10vw;
+
+    position: fixed;
+}
